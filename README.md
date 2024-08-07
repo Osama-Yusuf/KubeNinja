@@ -77,7 +77,7 @@ You can choose the version that best fits your needs and preferences.
 To analyze and fix Kubernetes deployment issues, run the script:
 
 ```bash
-kubeninja
+kubeninja mydeployment
 ```
 
 #### Script Workflow
