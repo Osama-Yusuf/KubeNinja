@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./logo.png" alt="KubeNinja Logo" style="width: 300px; height: 300px; object-fit: cover;">
+    <img src="./logo.jpg" alt="KubeNinja Logo" style="width: 300px; height: 300px; object-fit: cover;">
     <p>KubeNinja, an AI-powered tool that analyzes and fixes Kubernetes deployment issues based on logs and configurations.</p>
 </div>
 
