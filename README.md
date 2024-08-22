@@ -52,7 +52,7 @@ You can choose the version that best fits your needs and preferences.
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/YourUsername/KubeNinja.git
+    git clone https://github.com/Osama-Yusuf/KubeNinja.git
     cd KubeNinja
     ```
 
